@@ -1,0 +1,8 @@
+{
+  "name": "CalendarGen Agent",
+  "description": "An automated agent for generating 2026 calendar pages with specific design templates, powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
